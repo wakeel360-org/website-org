@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "image": "london_bridge.jpeg",
+    "icon": "england.jpeg",
+    "title": "Warm Environment",
+    "text": "Timeam nusquam usu ut, civibus fabellas eleifend eu vis. Id ipsum civibus pri, te ignota dignissim mel, iisque recteque.",
+    "delay": 200
+  },
+  {
+    "id": 1,
+    "image": "statue_of_liberty.jpeg",
+    "icon": "america.jpeg",
+    "title": "Warm Environment",
+    "text": "Timeam nusquam usu ut, civibus fabellas eleifend eu vis. Id ipsum civibus pri, te ignota dignissim mel, iisque recteque.",
+    "delay": 200
+  },
+  {
+    "id": 1,
+    "image": "canada_place.jpeg",
+    "icon": "canada.jpeg",
+    "title": "Warm Environment",
+    "text": "Timeam nusquam usu ut, civibus fabellas eleifend eu vis. Id ipsum civibus pri, te ignota dignissim mel, iisque recteque.",
+    "delay": 200
+  },
+  {
+    "id": 1,
+    "image": "rome.jpeg",
+    "icon": "italy.jpeg",
+    "title": "Warm Environment",
+    "text": "Timeam nusquam usu ut, civibus fabellas eleifend eu vis. Id ipsum civibus pri, te ignota dignissim mel, iisque recteque.",
+    "delay": 200
+  },
+  {
+    "id": 1,
+    "image": "church.jpeg",
+    "icon": "germany.jpeg",
+    "title": "Warm Environment",
+    "text": "Timeam nusquam usu ut, civibus fabellas eleifend eu vis. Id ipsum civibus pri, te ignota dignissim mel, iisque recteque.",
+    "delay": 200
+  },
+  {
+    "id": 1,
+    "image": "malta_place.jpeg",
+    "icon": "malta.jpeg",
+    "title": "Warm Environment",
+    "text": "Timeam nusquam usu ut, civibus fabellas eleifend eu vis. Id ipsum civibus pri, te ignota dignissim mel, iisque recteque.",
+    "delay": 200
+  },
+  {
+    "id": 1,
+    "image": "burj_khalifa.jpeg",
+    "icon": "uae.jpeg",
+    "title": "Warm Environment",
+    "text": "Timeam nusquam usu ut, civibus fabellas eleifend eu vis. Id ipsum civibus pri, te ignota dignissim mel, iisque recteque.",
+    "delay": 200
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "",
+    "text": "",
+    "image": "british-council.jpeg",
+    "btn-1": "/about",
+    "btn-2": "/contact"
+  },
+  {
+    "id": 2,
+    "title": "",
+    "text": "",
+    "image": "world-styudy.jpeg",
+    "btn-1": "/about",
+    "btn-2": "/contact"
+  }
+]
