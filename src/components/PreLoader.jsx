@@ -7,7 +7,7 @@ const PreLoader = () => {
                 <div id="learapress-preloader" className="learapress-preloader">
                     <div className="animation-preloader">
                         <div className="spinner"></div>
-                        <div className="txt-loading">
+                        {/* <div className="txt-loading">
                             <span data-text-preloader="L" className="letters-loading">
                                 L
                             </span>
@@ -38,7 +38,7 @@ const PreLoader = () => {
                             <span data-text-preloader="S" className="letters-loading">
                                 S
                             </span>
-                        </div>
+                        </div> */}
                     </div>
                     <div className="loader">
                         <div className="row">

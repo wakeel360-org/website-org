@@ -64,7 +64,7 @@ function App() {
       {isLoading ? <PreLoader /> :
         <div>
           <Helmet>
-            <title>LearaPress - Education & Courses React Template</title>
+            <title>Wakeel 360 - Find a best UK University for you l Consultancy for UK study</title>
             <link rel="shortcut icon" href="favicon.ico"></link>
           </Helmet>
 
