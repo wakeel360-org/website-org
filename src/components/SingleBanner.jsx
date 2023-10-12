@@ -10,7 +10,7 @@ const SingleBanner = ({ banner }) => {
             <div className="slider">
                 <div className="all-slide">
                     <div className="single-slide">
-                        <img src={`/img/banner/${image}`} style={{width: '100%',}}/>
+                        <img src={`/img/banner/${image}`} style={{width: '100%', height: '100%'}}/>
                         <div className="slider-overlay"></div>
                         <div className="slider-wrapper">
                             <div className="slider-text">
