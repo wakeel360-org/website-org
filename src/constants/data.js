@@ -14,5 +14,5 @@ export const AboutUsData = {
     Wakeel360 will find the right college or university suitable for you. We aspire to help students from all over the world`,
   overviewShort:
     "Wakeel360 is an enlisted professional student consultancy company. We specialise in academic counselling, course placement and internal student recruitment.",
-    videoLink: "https://youtube.com/shorts/rZc2WTWo6u8?si=xhycYpT5zU3OM-PZ"
+    videoLink: "https://www.youtube.com/watch?v=nEGxZdvvp3U"
 };
